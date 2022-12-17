@@ -1,0 +1,1 @@
+This is a simnple buck converter. Kicad 6.0. Ready for JLCPCB.
